@@ -1,0 +1,17 @@
+{
+    "name": "mukhoiran/99-own-library",
+    "description": "Library Composer Hello",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mukhoiran\\99OwnLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Khoirul Anam",
+            "email": "mkhoir.anam94@gmail.com"
+        }
+    ],
+    "require": {}
+}
