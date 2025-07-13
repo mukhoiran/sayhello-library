@@ -7,7 +7,7 @@ namespace Mukhoiran\OwnLibrary;
  */
 class People
 {
-    private function __construct(private string $name) {
+    public function __construct(private string $name) {
     }
 
     public function sayHello(string $name = "Guest"): string {
