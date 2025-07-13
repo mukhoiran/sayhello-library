@@ -1,10 +1,10 @@
 {
-    "name": "mukhoiran/99-own-library",
+    "name": "mukhoiran/own-library",
     "description": "Library Composer Hello",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Mukhoiran\\99OwnLibrary\\": "src/"
+            "Mukhoiran\\OwnLibrary\\": "src/"
         }
     },
     "authors": [
